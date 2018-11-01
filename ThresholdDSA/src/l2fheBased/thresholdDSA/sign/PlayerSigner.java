@@ -14,8 +14,6 @@ package l2fheBased.thresholdDSA.sign;
 
 import java.math.BigInteger;
 import java.security.SecureRandom;
-import java.util.concurrent.ExecutorService;
-import java.util.concurrent.Executors;
 
 import l2fheBased.thresholdDSA.data.BitcoinParams;
 import l2fheBased.thresholdDSA.data.Round1Message;

@@ -1,16 +1,8 @@
 package Common.Commitments;
 
-import it.unisa.dia.gas.jpbc.Element;
-import it.unisa.dia.gas.jpbc.Field;
-import it.unisa.dia.gas.jpbc.Pairing;
-import it.unisa.dia.gas.jpbc.PairingParameters;
-import it.unisa.dia.gas.jpbc.PairingParametersGenerator;
-import it.unisa.dia.gas.plaf.jpbc.pairing.PairingFactory;
-import it.unisa.dia.gas.plaf.jpbc.pairing.a.TypeACurveGenerator;
-
 import java.math.BigInteger;
 import java.security.SecureRandom;
-import java.util.Random;
+//import java.util.Random;
 
 import ACNS.thresholdDSA.Util;
 

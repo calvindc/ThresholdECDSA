@@ -5,8 +5,6 @@ import java.security.SecureRandom;
 import java.util.Random;
 
 import ACNS.thresholdDSA.Util;
-import uk.ac.ic.doc.jpair.api.Field;
-import uk.ac.ic.doc.jpair.api.FieldElement;
 import uk.ac.ic.doc.jpair.api.Pairing;
 import uk.ac.ic.doc.jpair.pairing.BigInt;
 import uk.ac.ic.doc.jpair.pairing.EllipticCurve;
